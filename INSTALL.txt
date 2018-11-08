@@ -59,7 +59,7 @@ We now have the complete configuration to start building AliRoot.
 Note that the build does not require any environment variables. The only exception is DATE environment needed 
 for the generation of DAs (full documentation HERE -> link to daq documentation)
 
-5. In order to configure and start the build we have to go inside the build folder
+5. In order to configure and start the build we have to go inside the build folder, and then:
     $ cd build
     
     The full build is controlled by CMake configure variables, no environment variables are needed. 
